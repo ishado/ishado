@@ -9,6 +9,6 @@
   
   <img src="https://github.com/ishado/ishado/blob/master/profile-img.png" align="right" width="25%"/>
 
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
+I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, Vue.js, and Firebase.
 
 - 🔭 I'm a software developer [@ishado](https://www.ishado.com/) in Egypt
